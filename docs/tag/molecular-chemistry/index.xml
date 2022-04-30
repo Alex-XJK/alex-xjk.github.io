@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molecular Chemistry | Alex XU</title>
+    <link>https://www.alexxu.me/tag/molecular-chemistry/</link>
+      <atom:link href="https://www.alexxu.me/tag/molecular-chemistry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Molecular Chemistry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.alexxu.me/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Molecular Chemistry</title>
+      <link>https://www.alexxu.me/tag/molecular-chemistry/</link>
+    </image>
+    
+    <item>
+      <title>Hybrid Bonding Technology</title>
+      <link>https://www.alexxu.me/project/nims/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexxu.me/project/nims/</guid>
+      <description>&lt;p&gt;Tried out &amp;ldquo;Surface Activated Bonding&amp;rdquo; related technology, and personally carried out hands-on operation in the super-clean laboratory under the guidance of Prof. Akitsu Shigetou. Comment on potential areas for improvement within my capabilities.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

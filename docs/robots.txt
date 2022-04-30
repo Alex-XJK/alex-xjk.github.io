@@ -1,3 +1,10 @@
 User-agent: *
 
 Sitemap: https://www.alexxu.me/sitemap.xml
+
+# Directories
+Disallow: /backup/
+Disallow: /talk/
+# Files
+Disallow: /README.txt
+Disallow: /web.config

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wearable Devices | Alex XU</title>
+    <link>https://www.alexxu.me/tag/wearable-devices/</link>
+      <atom:link href="https://www.alexxu.me/tag/wearable-devices/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wearable Devices</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.alexxu.me/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Wearable Devices</title>
+      <link>https://www.alexxu.me/tag/wearable-devices/</link>
+    </image>
+    
+    <item>
+      <title>Enhanced American Sign Language Recognition System</title>
+      <link>https://www.alexxu.me/project/asl/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alexxu.me/project/asl/</guid>
+      <description>&lt;p&gt;The wearable device based sign language recognition system plays a crucial role in the daily communication between people with disabilities and other ordinary people. A product that can quickly configure and accurately translate words is the goal people pursue. However, the current products or scientific research projects in related fields have more or fewer shortcomings, either because the customer samples that need to be collected are too complicated and the configuration time is too long, or because they only focus on a specific step for improvement. This project aims to study the common problems of existing products and improve sign language recognition system performance on wearable devices through our analysis and improvement measures. Finally, a complete set of end-to-end sign language recognition systems will be developed on smartphones or related devices, hoping to provide greater convenience to the daily life of people with disabilities in the future.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

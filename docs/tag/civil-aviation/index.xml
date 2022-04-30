@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Civil Aviation | Alex XU</title>
+    <link>https://www.alexxu.me/tag/civil-aviation/</link>
+      <atom:link href="https://www.alexxu.me/tag/civil-aviation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Civil Aviation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.alexxu.me/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Civil Aviation</title>
+      <link>https://www.alexxu.me/tag/civil-aviation/</link>
+    </image>
+    
+    <item>
+      <title>Rhomboid Wing Technology Demonstrator based on Stealth Design</title>
+      <link>https://www.alexxu.me/project/rhomboid/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexxu.me/project/rhomboid/</guid>
+      <description>&lt;p&gt;Awards:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The First Award in 28th &amp;ldquo;Feng Ru Cup&amp;rdquo; Beihang University&lt;/li&gt;
+&lt;li&gt;Outstanding Student Award of the 17th Beijing Youth Science and Technology Reserve Talents Early Training Plan&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
